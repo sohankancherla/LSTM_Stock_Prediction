@@ -10,4 +10,8 @@ Tesla stock actual vs prediction:
 - cmd: python lstm_stock.py
 
 # APIs and Libraries
-- 
+- Fred API to get the 3 month treasury rate
+- yfinance to get realtime stock data
+- sci-kit learn to process and evalute the data
+- keras to build the LSTM model
+- matplotlib to plot the data
